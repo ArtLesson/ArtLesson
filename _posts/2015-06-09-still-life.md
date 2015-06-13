@@ -10,6 +10,7 @@ alt: image-alt
 project-date: June 2015
 category: art
 description: Натюрморт
+iframe_url: https://www.youtube.com/embed/9_jRTjQlu4Q
 ---
 
 #### Общие положения для всех техник живописи.
