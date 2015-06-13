@@ -1,9 +1,9 @@
 ---
-title: Человек
+title: Архитектура
 <!-- subtitle: Website Design -->
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-06-10
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
