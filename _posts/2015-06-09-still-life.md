@@ -4,7 +4,7 @@ subtitle: Still life
 layout: default
 modal-id: 2
 date: 2015-06-09
-img: dreams.png
+img: still_life.jpg
 thumbnail: still_life-thumb.jpg
 alt: image-alt
 project-date: June 2015

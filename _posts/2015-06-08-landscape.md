@@ -4,7 +4,7 @@ subtitle: Landscape
 layout: default
 modal-id: 3
 date: 2015-06-08
-img: escape.png
+img: landscape.jpg
 thumbnail: landscape_thumb.jpg
 alt: image-alt
 project-date: June 2015
