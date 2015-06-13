@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2015-06-08
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: landscape_thumb.jpg
 alt: image-alt
 project-date: June 2015
 category: art
