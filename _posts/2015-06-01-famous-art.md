@@ -2,7 +2,7 @@
 title: Работы известных художников
 subtitle: Famous artist
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2015-06-01
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png

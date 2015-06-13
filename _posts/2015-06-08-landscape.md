@@ -2,7 +2,7 @@
 title: Пейзаж
 subtitle: Landscape
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2015-06-08
 img: escape.png
 thumbnail: landscape_thumb.jpg

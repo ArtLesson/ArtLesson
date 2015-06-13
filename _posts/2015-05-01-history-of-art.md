@@ -2,7 +2,7 @@
 title: История искусств
 subtitle: History of art
 layout: default
-modal-id: 6
+modal-id: 9
 date: 2015-05-01
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
