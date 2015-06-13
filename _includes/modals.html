@@ -27,6 +27,18 @@
                                     ></iframe>
                                 </div>
                             {% endif %}
+                            {% if post.iframe_url2 %}
+                                <div class="less-fancy-video-header">
+                                  <iframe
+                                    class="yt-embed"
+                                    src="{{ post.iframe_url2 }}?&rel=0&showinfo=0&autohide=1&hd=1&wmode=transparent"
+                                    frameborder="0"
+                                    allowfullscreen="true"
+                                    width="560"
+                                    height="315"
+                                    ></iframe>
+                                </div>
+                            {% endif %}
                             <p>{{ post.description }}</p>
                             <div class="post__content">{{ post.content }}</div>
                             <ul class="list-inline item-details">
