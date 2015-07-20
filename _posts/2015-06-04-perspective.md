@@ -46,3 +46,13 @@ description:
 ![img-7](/img/portfolio/img-7.jpg)
 
 ![img-8](/img/portfolio/img-8.jpg)
+
+##### Цилиндр в перспективе
+
+![img-9](/img/portfolio/img-9.jpg)
+
+Построение овала цилиндра относительно линии горизонта
+
+![img-10](/img/portfolio/img-10.jpg)
+
+![img-11](/img/portfolio/img-11.jpg)
