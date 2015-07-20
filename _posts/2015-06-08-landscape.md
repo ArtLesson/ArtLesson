@@ -12,6 +12,9 @@ category: art
 description: 
 
 ---
-#### Пейзаж, видео уроки
+#### Пейзаж
+
+######видео уроки
+
 * [Пейзаж маслом](https://www.youtube.com/watch?v=-kPYQ_2Vo78)
 

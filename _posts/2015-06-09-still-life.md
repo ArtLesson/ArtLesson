@@ -11,7 +11,10 @@ project-date: June 2015
 category: art
 description: Натюрморт
 ---
-#### Акрил, видео уроки
+#### Акрил
+
+######видео уроки
+
 * [Акрил, натюрморт - часть 1](https://www.youtube.com/watch?v=q82bW_6CfIA)
 * [Акрил, натюрморт - часть 2](https://www.youtube.com/watch?v=luiBi4VSIVQ)
 * [Учебный натюрморт, акварель](https://www.youtube.com/watch?v=r4dXJ3ZgCH0)
