@@ -51,14 +51,8 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: youtube
+    url: http://www.youtube.com/channel/UCsedkUzeiuTergznDmz15OQ
 
 # Postal address (add as many lines as necessary)
 address:
