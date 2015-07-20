@@ -13,8 +13,8 @@ description: Натюрморт
 ---
 #### Акрил, видео уроки
 
-* [Акрил, натюрморт - часть 1](https://www.youtube.com/watch?v=q82bW_6CfIA)
-* [Акрил, натюрморт - часть 2](https://www.youtube.com/watch?v=luiBi4VSIVQ)
+* [Натюрморт - часть 1](https://www.youtube.com/watch?v=q82bW_6CfIA)
+* [Натюрморт - часть 2](https://www.youtube.com/watch?v=luiBi4VSIVQ)
 * [Учебный натюрморт, акварель](https://www.youtube.com/watch?v=r4dXJ3ZgCH0)
 * [Учебный натюрморт, черно-белый, акварель](https://www.youtube.com/watch?v=9_jRTjQlu4Q)
 
