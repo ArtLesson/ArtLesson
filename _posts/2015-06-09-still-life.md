@@ -10,8 +10,12 @@ alt: image-alt
 project-date: June 2015
 category: art
 description: Натюрморт
-iframe_url: https://www.youtube.com/embed/9_jRTjQlu4Q
 ---
+#### Акрил
+* [Акрил, натюрморт - часть 1](https://www.youtube.com/watch?v=q82bW_6CfIA)
+* [Акрил, натюрморт - часть 2](https://www.youtube.com/watch?v=luiBi4VSIVQ)
+* [Учебный натюрморт, акварель](https://www.youtube.com/watch?v=r4dXJ3ZgCH0)
+* [Учебный натюрморт, черно-белый, акварель](https://www.youtube.com/watch?v=9_jRTjQlu4Q)
 
 #### Общие положения для всех техник живописи.
 Начинать надо с несложных постановок. В начале возьмите один, два предмета (простой формы вазу и яблоко), затем составляйте небольшие группы.
