@@ -11,7 +11,7 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    color: #777!important;
 }
 
 .text-primary {
@@ -335,8 +335,9 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
+    color: #fff;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 24px;
     font-style: italic;
     font-weight: 400;
 }
@@ -372,8 +373,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
+    background-color: rgba(238, 238, 238, .8);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
