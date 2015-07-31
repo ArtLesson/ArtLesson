@@ -355,7 +355,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: 15px 0 15px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -662,6 +662,7 @@ section#contact {
 }
 
 section#contact .section-heading {
+    margin-top: 20px;
     color: #fff;
 }
 
