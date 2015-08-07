@@ -36,14 +36,24 @@ a.active {
 }
 
 a {
-    color: #{{ site.color.primary }};
+    color: #1848bf;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.color.secondary }};
+    color: #5396e8;
+}
+
+.page-scroll {
+    color: #FFF;
+}
+
+.page-scroll:hover,
+.page-scroll:active,
+ .page-scroll:focus {
+    color: #FFF;
 }
 
 h1,
